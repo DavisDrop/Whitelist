@@ -5,18 +5,25 @@
 ; cn、local域名都不走代理
 *.cn
 *.local
+*.net
+*.org
+*.io
 
 ; 局域网IP不走代理
-10.*.*.*
 172.*.*.*
-169.*.*.*
+10.*.*.*
 192.*.*.*
+169.*.*.*
 127.0.0.1
 ::1
 localhost
 
 ;常规
 *.unicompayment.com
+*.zhihu.com
+*.jd.com
+*.wulala.*
+*.csdn.net
 *.zhipin.com
 *.edu.*
 *.baidu.com
