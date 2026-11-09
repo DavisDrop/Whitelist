@@ -4,6 +4,8 @@ https://ghfast.top/
 ; Require: https://github.com/zero-peak/ZeroOmega
 ; Update @ Sat Jan  3 10:32:41 2026
 
+*.cloudflare.com
+*.googlevideo.com
 *.chatgpt.com
 *.v2ex.com
 *.yinwang.org
